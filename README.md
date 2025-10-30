@@ -28,8 +28,6 @@ Concepts: Object-Oriented Programming, Data Structures & Algorithms, Operating S
 
 I'm always open to discussing open-source projects, backend development, and networking challenges. Feel free to reach out!
 
-Email | LinkedIn | Portfolio | GitHub
-
 📫 How to reach me
 
 💼 LinkedIn: linkedin.com/in/nikita-ovramenko-9042b8251
