@@ -1,26 +1,34 @@
 👋 Hi, I'm Nikita Ovramenko
-🔹 Software Developer | Embedded Systems | Web Development
-
+🎯 Computer Engineering Student | Full-Stack & Embedded Systems Developer
 🚀 About Me
-🎯 Passionate about web development, backend systems, and networking
 
-🔧 Proficient in Java, Python, C/C++, and JavaScript
+I'm a Computer Engineering student at Toronto Metropolitan University passionate about building efficient and scalable systems. I have hands-on experience across the stack—from developing AI-integrated web applications with React and Node.js to programming low-level embedded systems in C and VHDL. I thrive on turning complex problems into clean, functional solutions.
+💻 Technical Skills
 
-⚡ Experienced in React, JavaFX, Docker, and MongoDB
+Languages: C, C++, Python, Java, C#, TypeScript, JavaScript, SQL, VHDL, Assembly
+Frameworks & Tools: React, Node.js, Express.js, Flask, JavaFX, Docker, Git, PostgreSQL, MongoDB, Raspberry Pi
+Concepts: Object-Oriented Programming, Data Structures & Algorithms, Operating Systems, Computer Architecture, Peer-to-Peer Networking
+🔧 What I'm Building
 
-📡 Building scalable chat applications & system architectures
+    Full-Stack Applications: Shipped a responsive React/TypeScript web app with a dual-backend (Node.js + ASP.NET 8) for real-time 3D paint previews.
 
-🌱 I'm currently learning
+    Distributed Systems: Engineered a P2P file-sharing system in C using a hybrid UDP/TCP architecture.
 
-Cloud Computing (AWS, Docker, Kubernetes)
+    Automation & IoT: Automated smart device workflows in Home Assistant with Python and Node.js.
 
-Advanced System Design & Networking
+🌱 Currently Learning
 
-💡 Looking to collaborate on
+    Cloud Computing (AWS, Docker, Kubernetes)
 
-Open-source projects
-Web applications & backend development
-Networking and distributed systems
+    Advanced Algorithms & System Design
+
+    Embedded Linux & FPGA Programming
+
+📫 Let's Connect
+
+I'm always open to discussing open-source projects, backend development, and networking challenges. Feel free to reach out!
+
+Email | LinkedIn | Portfolio | GitHub
 
 📫 How to reach me
 
