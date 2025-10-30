@@ -3,11 +3,13 @@
 🚀 About Me
 
 I'm a Computer Engineering student at Toronto Metropolitan University passionate about building efficient and scalable systems. I have hands-on experience across the stack—from developing AI-integrated web applications with React and Node.js to programming low-level embedded systems in C and VHDL. I thrive on turning complex problems into clean, functional solutions.
+
 💻 Technical Skills
 
 Languages: C, C++, Python, Java, C#, TypeScript, JavaScript, SQL, VHDL, Assembly
 Frameworks & Tools: React, Node.js, Express.js, Flask, JavaFX, Docker, Git, PostgreSQL, MongoDB, Raspberry Pi
 Concepts: Object-Oriented Programming, Data Structures & Algorithms, Operating Systems, Computer Architecture, Peer-to-Peer Networking
+
 🔧 What I'm Building
 
     Full-Stack Applications: Shipped a responsive React/TypeScript web app with a dual-backend (Node.js + ASP.NET 8) for real-time 3D paint previews.
@@ -24,9 +26,7 @@ Concepts: Object-Oriented Programming, Data Structures & Algorithms, Operating S
 
     Embedded Linux & FPGA Programming
 
-📫 Let's Connect
 
-I'm always open to discussing open-source projects, backend development, and networking challenges. Feel free to reach out!
 
 📫 How to reach me
 
