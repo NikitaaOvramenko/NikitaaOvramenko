@@ -1,39 +1,54 @@
-👋 Hi, I'm Nikita Ovramenko
-🎯 Computer Engineering Student | Full-Stack & Embedded Systems Developer
-🚀 About Me
+# Hey, I'm Nikita 👋
 
-I'm a Computer Engineering student at Toronto Metropolitan University passionate about building efficient and scalable systems. I have hands-on experience across the stack—from developing AI-integrated web applications with React and Node.js to programming low-level embedded systems in C and VHDL. I thrive on turning complex problems into clean, functional solutions.
+**Computer Engineering @ Toronto Metropolitan University** | Full-Stack Developer | AI & Embedded Systems
 
-💻 Technical Skills
+I build things that work—from 3D web apps to IoT automation to distributed systems. Currently shipping production code at internships and side projects.
 
-Languages: C, C++, Python, Java, C#, TypeScript, JavaScript, SQL, VHDL, Assembly
-Frameworks & Tools: React, Node.js, Express.js, Flask, JavaFX, Docker, Git, PostgreSQL, MongoDB, Raspberry Pi
-Concepts: Object-Oriented Programming, Data Structures & Algorithms, Operating Systems, Computer Architecture, Peer-to-Peer Networking
+---
 
-🔧 What I'm Building
+## 🔨 What I've Built
 
-    Full-Stack Applications: Shipped a responsive React/TypeScript web app with a dual-backend (Node.js + ASP.NET 8) for real-time 3D paint previews.
+### [TCS Paints](https://github.com/NikitaaOvramenko/TCS---Paints)
+A painting service platform with **3D house visualization**. Users preview paint colors in real-time on interactive Three.js models, submit quotes, and chat with an AI assistant.
+> React · Three.js · Node.js · PostgreSQL · Semantic Kernel
 
-    Distributed Systems: Engineered a P2P file-sharing system in C using a hybrid UDP/TCP architecture.
+### [AI Chat Service](https://github.com/NikitaaOvramenko/backend-sk-chat-tcs)
+Backend-for-Frontend that powers the AI chatbot in TCS Paints. Routes user intent to native functions (cost estimation, image recoloring) via Microsoft Semantic Kernel.
+> .NET · Semantic Kernel · Supabase · OpenAI
 
-    Automation & IoT: Automated smart device workflows in Home Assistant with Python and Node.js.
+### [YourLocalJunkRemoval](https://github.com/NikitaaOvramenko/TCS-Junk-Removal)
+SEO-optimized booking platform serving multiple cities from a single codebase. Dynamic routing, metadata hoisting, automated sitemap generation.
+> React · Vite · Tailwind CSS · GSAP
 
-🌱 Currently Learning
+### [Pharmacy E-Commerce Platform](https://github.com/NikitaaOvramenko/E-Commerce-Drug-Store)
+Full-stack e-commerce with JWT auth, hierarchical product catalog, and transactional order processing.
+> Spring Boot · Java · React · PostgreSQL
 
-    Cloud Computing (AWS, Docker, Kubernetes)
+---
 
-    Advanced Algorithms & System Design
+## 💼 Experience
 
-    Embedded Linux & FPGA Programming
+**Full Stack Developer Intern @ TCS** — Los Angeles, CA *(Jul–Oct 2025)*  
+Built dual-backend systems (Node.js + ASP.NET), 3D visualization, AI chat, cloud storage with Supabase.
 
+**Automation Developer Intern @ Pine Smart Solutions** — Toronto, ON *(Jan–Apr 2025)*  
+Automated 40+ IoT devices via Home Assistant, Z-Wave, Zigbee. Installed Ubiquiti infrastructure.
 
+---
 
-📫 How to reach me
+## 🛠 Tech Stack
 
-💼 LinkedIn: linkedin.com/in/nikita-ovramenko-9042b8251
+**Languages:** TypeScript, JavaScript, Java, C#, Python, C, SQL, VHDL  
+**Frontend:** React, Three.js, Tailwind CSS, GSAP, Vite  
+**Backend:** Node.js, Express, Spring Boot, ASP.NET, Semantic Kernel  
+**Data:** PostgreSQL, Supabase, Sequelize, Spring Data JPA  
+**Infra:** Docker, Vercel, Linux, Git
 
-🔗 GitHub: github.com/NikitaaOvramenko
+---
 
-📧 Email: nikita.ovramenko@torontomu.ca
+## 📫 Let's Connect
 
-  Portfolio:https://nikitaaovramenko.github.io/Portfolio1/
+[![Portfolio](https://img.shields.io/badge/Portfolio-ovramenko.dev-blue?style=flat-square)](https://ovramenko.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nikitaovramenko-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nikitaovramenko)
+[![Email](https://img.shields.io/badge/Email-nikita.ovramenko@torontomu.ca-red?style=flat-square)](mailto:nikita@ovramenko.dev)
+
