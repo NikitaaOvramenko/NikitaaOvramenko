@@ -50,5 +50,5 @@ Automated 40+ IoT devices via Home Assistant, Z-Wave, Zigbee. Installed Ubiquiti
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ovramenko.dev-blue?style=flat-square)](https://ovramenko.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nikitaovramenko-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nikitaovramenko)
-[![Email](https://img.shields.io/badge/Email-nikita.ovramenko@torontomu.ca-red?style=flat-square)](mailto:nikita@ovramenko.dev)
+[![Email](https://img.shields.io/badge/Email-nikita@ovramenko.dev-red?style=flat-square)](mailto:nikita@ovramenko.dev)
 
