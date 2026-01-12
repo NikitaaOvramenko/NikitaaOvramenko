@@ -27,10 +27,6 @@ Full-stack e-commerce with JWT auth, hierarchical product catalog, and transacti
 ---
 
 ## 💼 Experience
-
-**Full Stack Developer Intern @ TCS** — Los Angeles, CA *(Jul–Oct 2025)*  
-Built dual-backend systems (Node.js + ASP.NET), 3D visualization, AI chat, cloud storage with Supabase.
-
 **Automation Developer Intern @ Pine Smart Solutions** — Toronto, ON *(Jan–Apr 2025)*  
 Automated 40+ IoT devices via Home Assistant, Z-Wave, Zigbee. Installed Ubiquiti infrastructure.
 
