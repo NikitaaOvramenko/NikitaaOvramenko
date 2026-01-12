@@ -2,14 +2,14 @@
 
 **Computer Engineering @ Toronto Metropolitan University** | Full-Stack Developer | AI & Embedded Systems
 
-I build things that work—from 3D web apps to IoT automation to distributed systems. Currently shipping production code at internships and side projects.
+I build things that work—from web apps to IoT automation to distributed systems. Currently shipping production code at internships and side projects.
 
 ---
 
 ## 🔨 What I've Built
 
 ### [TCS Paints](https://github.com/NikitaaOvramenko/TCS---Paints)
-A painting service platform with **3D house visualization**. Users preview paint colors in real-time on interactive Three.js models, submit quotes, and chat with an AI assistant.
+A painting service platform . Users preview paint colors in real-time on interactive Three.js models, submit quotes, and chat with an AI assistant.
 > React · Three.js · Node.js · PostgreSQL · Semantic Kernel
 
 ### [AI Chat Service](https://github.com/NikitaaOvramenko/backend-sk-chat-tcs)
